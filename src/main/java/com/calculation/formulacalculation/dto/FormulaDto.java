@@ -1,9 +1,6 @@
 package com.calculation.formulacalculation.dto;
 
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class FormulaDto {
     private Long id;
     private String code;
